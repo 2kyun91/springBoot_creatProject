@@ -3,7 +3,7 @@ package com.example.controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.dao.SampleDao;
+import com.example.dto.SampleDao;
 
 /*
  * @RestController 어노테이션을 이용해서 스프링의 빈에 등록한다.
